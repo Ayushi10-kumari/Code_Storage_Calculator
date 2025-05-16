@@ -45,11 +45,17 @@ pip install flask
 Ensure Project Structure:The project should have the following structure:
 code_storage_calculator/
 ├── app.py                  # Flask backend
+
 ├── templates/
+
 │   └── index.html         # HTML frontend
+
 ├── static/
+
 │   └── style.css          # CSS for styling
+
 ├── uploads/               # Temporary folder for uploaded files (created automatically)
+
 ├── README.md              # This file
 
 
@@ -82,9 +88,7 @@ Number of Code Files: 3
 Processed Files:
 
 - main.py (125.60 kb)
-- 
-- utils.js (80.00 kb)
-- 
+-  utils.js (80.00 kb)
 - style.css (50.40 kb)
 
 
