@@ -17,7 +17,7 @@ Flask (pip install flask)
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/code-storage-calculator.git
+git clone https://github.com/Ayushi10-kumari/Code_Storage_Calculator.git
 cd code-storage-calculator
 
 
