@@ -1,4 +1,5 @@
 Code Storage Calculator
+
 A Flask-based web application to calculate the storage size of uploaded programming code files, displaying results in bits. The application features a user-friendly HTML/CSS interface, allowing users to upload multiple code files, view total storage size, and optionally see a detailed list of processed files.
 Features
 
