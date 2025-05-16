@@ -69,31 +69,37 @@ Processed Files:
 
 Error Handling:
 
-Non-code files trigger: "Some files were skipped (invalid or non-code file extension)".
-No files uploaded shows: "No files uploaded or invalid files selected".
+1.Non-code files trigger: "Some files were skipped (invalid or non-code file extension)".
+2.No files uploaded shows: "No files uploaded or invalid files selected".
 
 
 
 Project Structure
 
-app.py: Flask backend handling file uploads, storage calculations, and result rendering.
-templates/index.html: HTML frontend with file upload form and result display.
-static/style.css: CSS for responsive, modern styling.
-uploads/: Temporary folder for storing uploaded files during processing.
+1.app.py: Flask backend handling file uploads, storage calculations, and result rendering.
+2.templates/index.html: HTML frontend with file upload form and result display.
+3.static/style.css: CSS for responsive, modern styling.
+4.uploads/: Temporary folder for storing uploaded files during processing.
 
 Contributing
 Contributions are welcome! To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit (git commit -m 'Add your feature').
-Push to the branch (git push origin feature/your-feature).
-Open a Pull Request.
+1.Fork the repository.
+2.Create a new branch (git checkout -b feature/your-feature).
+3.Make your changes and commit (git commit -m 'Add your feature').
+4.Push to the branch (git push origin feature/your-feature).
+5.Open a Pull Request.
 
 Please ensure your code follows the project's coding style and includes relevant tests.
-License
+
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
+
+Acknowledgments:
+
+Built with Flask for the backend.
+Styled with custom CSS for a responsive user interface.
+Inspired by the need to analyze code file storage efficiently.
 
 Built with Flask for the backend.
 Styled with custom CSS for a responsive user interface.
