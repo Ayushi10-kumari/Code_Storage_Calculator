@@ -70,6 +70,7 @@ Processed Files:
 Error Handling:
 
 1.Non-code files trigger: "Some files were skipped (invalid or non-code file extension)".
+
 2.No files uploaded shows: "No files uploaded or invalid files selected".
 
 
@@ -85,9 +86,13 @@ Contributing
 Contributions are welcome! To contribute:
 
 1.Fork the repository.
+
 2.Create a new branch (git checkout -b feature/your-feature).
+
 3.Make your changes and commit (git commit -m 'Add your feature').
+
 4.Push to the branch (git push origin feature/your-feature).
+
 5.Open a Pull Request.
 
 Please ensure your code follows the project's coding style and includes relevant tests.
